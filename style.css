@@ -1,0 +1,32 @@
+header {
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+  }
+
+h2 {
+    overflow: hidden;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+  }
+
+  section {
+      float: left;
+      display: block;
+      background-color: #ebebeb;
+      width: 45%;
+  }
+
+  h3 {
+      float: right;
+      display: block;
+      background-color: #ebebeb;
+      width:45%;
+  }
+
+  footer {
+      text-align: center;
+      background-color: #ebebeb;
+      padding: 20px;
+  }
